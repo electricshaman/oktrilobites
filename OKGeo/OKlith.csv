@@ -1,0 +1,533 @@
+UNIT_LINK,LITH_RANK,LITH1,LITH2,LITH3,LITH4,LITH5,TOTAL_LITH,LOW_LITH,LITH_FORM,LITH_COM
+OKQa;0,Major,Unconsolidated,Fine-detrital,,,,"Unconsolidated     Fine-detrital                         ",Fine-detrital,Alluvial,
+OKQal;0,Major,Unconsolidated,Fine-detrital,,,,"Unconsolidated     Fine-detrital                         ",Fine-detrital,Alluvial,
+OKQd;0,Major,Unconsolidated,Fine-detrital,,,,"Unconsolidated     Fine-detrital                         ",Fine-detrital,Eolian,
+OKQds;0,Major,Unconsolidated,Fine-detrital,,,,"Unconsolidated     Fine-detrital                         ",Fine-detrital,Eolian,
+OKQt;0,Major,Unconsolidated,Coarse-detrital,,,,"Unconsolidated     Coarse-detrital                         ",Coarse-detrital,Alluvial,
+OKQt;0,Major,Unconsolidated,Fine-detrital,,,,"Unconsolidated     Fine-detrital                         ",Fine-detrital,Alluvial,
+OKQt;0,"Indeterminate, major",Igneous,Volcanic,,,,"Igneous     Volcanic                         ",Volcanic,"Pyroclastic, air fall",
+OKTb;0,Major,Igneous,Volcanic,Mafic-volcanic,Basalt,,"Igneous     Volcanic          Mafic-volcanic               Basalt",Basalt,Flow,
+OKTo;0,Major,Unconsolidated,Coarse-detrital,Sand,,,"Unconsolidated     Coarse-detrital          Sand               ",Sand,Bed,
+OKTo;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed,
+OKTo;0,Major,Unconsolidated,Fine-detrital,Clay,,,"Unconsolidated     Fine-detrital          Clay               ",Clay,Bed,
+OKTo;0,Major,Unconsolidated,Coarse-detrital,Gravel,,,"Unconsolidated     Coarse-detrital          Gravel               ",Gravel,Bed,
+OKTo;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed,
+OKTo;0,Minor,Igneous,Volcanic,,,,"Igneous     Volcanic                         ",Volcanic,"Pyroclastic, air fall",
+OKToa;0,Major,Unconsolidated,Coarse-detrital,Sand,,,"Unconsolidated     Coarse-detrital          Sand               ",Sand,Bed,
+OKToa;0,Major,Unconsolidated,Coarse-detrital,Silt,,,"Unconsolidated     Coarse-detrital          Silt               ",Silt,Bed
+OKToa;0,Major,Unconsolidated,Fine-detrital,Clay,,,"Unconsolidated     Fine-detrital          Clay               ",Clay,Bed
+OKToa;0,Major,Unconsolidated,Coarse-detrital,Gravel,,,"Unconsolidated     Coarse-detrital          Gravel               ",Gravel,Bed
+OKToa;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKToa;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKToa;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKToa;0,"Indeterminate, major",Igneous,Volcanic,,,,"Igneous     Volcanic                         ",Volcanic,"Pyroclastic, air fall"
+OKKo;0,Major,Sedimentary,Carbonate,Marlstone,,,"Sedimentary     Carbonate          Marlstone               ",Marlstone,Bed
+OKKo;0,Major,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKKo;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKo;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKbr;0,Major,Sedimentary,Carbonate,Marlstone,,,"Sedimentary     Carbonate          Marlstone               ",Marlstone,Bed
+OKKbr;0,Major,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKKbr;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKbr;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKef;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKef;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKef;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKto;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKto;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKw;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKw;0,Major,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKKw;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKKw;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKKwt;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKwt;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKwl;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKwl;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKwr;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKwr;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKwr;0,Minor,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKKwd;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKwd;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKwd;0,Minor,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKKgb;0,Major,Sedimentary,Carbonate,Marlstone,,,"Sedimentary     Carbonate          Marlstone               ",Marlstone,Bed
+OKKgb;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKb;0,Major,Sedimentary,Clastic,Mudstone,Claystone,,"Sedimentary     Clastic          Mudstone               Claystone",Claystone,Bed
+OKKb;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKb;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKpm;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKpm;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKws;0,Major,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKKws;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKws;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKws;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKdc;0,Major,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKKdc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKdc;0,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKcf;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKcf;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKcf;0,Major,Sedimentary,Carbonate,Marlstone,,,"Sedimentary     Carbonate          Marlstone               ",Marlstone,Bed
+OKKki;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKki;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKgw;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKgw;0,Minor,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKKa;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKa;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKa;0,Minor,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKKa;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKKdq;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKdq;0,Major,Sedimentary,Carbonate,Marlstone,,,"Sedimentary     Carbonate          Marlstone               ",Marlstone,Bed
+OKKdq;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKdq;0,Minor,Sedimentary,Chemical,Evaporite,Anhydrite,,"Sedimentary     Chemical          Evaporite               Anhydrite",Anhydrite,Bed
+OKKdq;0,Minor,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKKdq;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKKh;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKKh;0,Minor,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKKh;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKKc;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKd;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKd;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKKds;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKds;0,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKk;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKk;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKKk;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKp;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKKp;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKKp;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKJe;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKJm;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKJm;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKJm;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKJm;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKJm;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKTRd;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKTRd;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKTRd;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKTRd;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKTRd;0,Minor,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKTRd;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMZu;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMZu;0,Major,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKMZu;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPec;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPec;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPec;0,Minor,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKPdy;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPdy;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPcc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPcc;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPcc;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPcc;0,Minor,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPcc;0,Minor,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPwh;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPwh;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPwh;0,Minor,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPwh;0,Minor,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPwh;0,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPr;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPr;0,Minor,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPr;0,Minor,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPr;0,Incidental,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPrw;0,Major,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPrw;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPm;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPm;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPm;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPm;0,Incidental,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPm;0,Incidental,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPmd;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Lense
+OKPmv;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Lense
+OKPer;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPer;0,Major,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPer;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPer;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPer;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPer;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPer;0,Incidental,Sedimentary,Chemical,Evaporite,Salt,,"Sedimentary     Chemical          Evaporite               Salt",Salt,Bed
+OKPdc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPdc;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPdc;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPdc;0,Minor,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPdc;0,Minor,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPb;0,Major,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPb;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPb;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPbe;0,Major,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPbe;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPbv;0,Major,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPbv;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPbv;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPch;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPch;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPch;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPf;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPf;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPf;0,Minor,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPf;0,Minor,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPf;0,Minor,Sedimentary,Chemical,Evaporite,Salt,,"Sedimentary     Chemical          Evaporite               Salt",Salt,Bed
+OKPf;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPc;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPc;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPc;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPd;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPd;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPd;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPd;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPsa;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPsa;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPsa;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPhy;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPhy;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPhy;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPbi;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPbi;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPbi;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPpo;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPpo;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPpo;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPpo;0,Minor,Sedimentary,Clastic,Mudstone,,,"Sedimentary     Clastic          Mudstone               ",Mudstone,Bed
+OKPpo;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPsp;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPsp;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPsp;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPp;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPp;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPp;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPk;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPk;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPk;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPfa;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPfa;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPg;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPg;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPg;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPg;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPg;0,Minor,Sedimentary,Chemical,Chert,,,"Sedimentary     Chemical          Chert               ",Chert,Bed
+OKPw;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPw;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPw;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPw;0,Minor,Sedimentary,Chemical,Chert,,,"Sedimentary     Chemical          Chert               ",Chert,Bed
+OKPu;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPu;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPu;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPu;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPu;0,Minor,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKPu;0,Minor,Sedimentary,Chemical,Evaporite,Gypsum,,"Sedimentary     Chemical          Evaporite               Gypsum",Gypsum,Bed
+OKPu;0,Incidental,Sedimentary,Chemical,Evaporite,Salt,,"Sedimentary     Chemical          Evaporite               Salt",Salt,Bed
+OKPAo;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAo;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAo;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAv;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAv;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAv;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAv;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAv;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAa;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAa;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAa;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAa;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAva;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAva;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAva;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAva;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAho;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAho;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAho;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAht;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAht;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPAht;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAbv;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAbv;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPAbv;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAbv;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAto;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAto;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAwi;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAwi;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAwi;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAch;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAch;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAch;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAb;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAb;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAta;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAta;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAbd;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAbd;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAbd;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAn;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAn;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAn;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPAn;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAn;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAhg;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAhg;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAd;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAd;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAd;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAnh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAnh;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAnh;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAcf;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAcf;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAcf;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAcf;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAcc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAcc;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAcc;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAcc;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAcc;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAde;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAde;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAde;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAde;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAdo;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAdo;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAdo;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAdo;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAsl;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAsl;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAsl;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAsl;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAh;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAh;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAh;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAlp;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAlp;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAhu;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAhu;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAhu;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAhl;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAhl;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAhl;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAnw;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAnw;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAnw;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAol;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAol;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAol;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAw;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAw;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAw;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAw;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAwe;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAwe;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAwe;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPAwe;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAca;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAca;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAlb;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAlb;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAlb;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAfs;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAfs;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAse;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAse;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAse;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAse;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAst;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAst;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAth;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAth;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAth;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAbo;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAbo;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAbo;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAbo;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAbj;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAbj;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAsa;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAsa;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAsa;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAsa;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAm;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAm;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAm;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAsm;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAsm;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAsm;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAha;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAha;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAha;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAmh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAmh;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAmh;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAsmh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAsmh;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAsmh;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAsmh;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAat;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAat;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAat;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPAat;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAat;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAlm;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAlm;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAsma;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAsma;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAsma;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKPAsma;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAsma;0,Incidental,Sedimentary,Coal,,,,"Sedimentary     Coal                         ",Coal,Bed
+OKPAbh;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAbh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAbh;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAwa;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAwal;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAwal;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAwas;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAwc;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAwc;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAwc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAwc;0,Minor,Sedimentary,Chemical,Chert,,,"Sedimentary     Chemical          Chert               ",Chert,Bed
+OKPAlg;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAlg;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAul;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAus;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAus;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAjv;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAjv;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAjv;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAjf;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAjf;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAjf;0,Incidental,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKPAmo;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAmo;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAma;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAma;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKPAu;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKPAu;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKPAu;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKMp;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKMp;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMpfh;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKMpfh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMpfh;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKMpfh;0,Minor,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKMg;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMg;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKMd;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMsw;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKMst;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMst;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKMst;0,Minor,Sedimentary,Chemical,Chert,,,"Sedimentary     Chemical          Chert               ",Chert,Bed
+OKMst;0,Incidental,Igneous,Volcanic,,,,"Igneous     Volcanic                         ",Volcanic,"Pyroclastic, tuff"
+OKMkr;0,Major,Sedimentary,Chemical,Chert,,,"Sedimentary     Chemical          Chert               ",Chert,Bed
+OKMkr;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKMkr;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMkr;0,Minor,Sedimentary,Carbonate,Marlstone,,,"Sedimentary     Carbonate          Marlstone               ",Marlstone,Bed
+OKMu;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKMu;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMu;0,Major,Sedimentary,Chemical,Chert,,,"Sedimentary     Chemical          Chert               ",Chert,Bed
+OKMu;0,Minor,Sedimentary,Carbonate,Marlstone,,,"Sedimentary     Carbonate          Marlstone               ",Marlstone,Bed
+OKMDw;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMDw;0,Major,Sedimentary,Chemical,Chert,,,"Sedimentary     Chemical          Chert               ",Chert,Bed
+OKMDSa;0,Major,Sedimentary,Chemical,Novaculite,,,"Sedimentary     Chemical          Novaculite               ",Novaculite,Bed
+OKMDSa;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMDSa;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKMDSO;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKMDSO;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMDSO;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKMDSO;0,Minor,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKMDSO;0,Minor,Sedimentary,Chemical,Chert,,,"Sedimentary     Chemical          Chert               ",Chert,Bed
+OKMDO;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKMDO;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKMDO;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKMDO;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKDa;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKDa;0,Major,Sedimentary,Chemical,Novaculite,,,"Sedimentary     Chemical          Novaculite               ",Novaculite,Bed
+OKDw;0,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,"Sedimentary     Clastic          Mudstone               Shale                    Black-shale",Black-shale,Bed
+OKDp;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKDp;0,Major,Sedimentary,Chemical,Chert,,,"Sedimentary     Chemical          Chert               ",Chert,Bed
+OKDp;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKDSh;0,Major,Sedimentary,Carbonate,Marlstone,,,"Sedimentary     Carbonate          Marlstone               ",Marlstone,Bed
+OKDSh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKDSh;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKSm;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKSm;0,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,"Metamorphic     Metasedimentary          Metaclastic               Phyllite",Phyllite,
+OKSm;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKSm;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKSm;0,Incidental,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKSb;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKSb;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKSb;0,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,"Metamorphic     Metasedimentary          Metaclastic               Phyllite",Phyllite,
+OKSmb;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKSmb;0,Incidental,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKSmOp;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKSmOp;0,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,"Metamorphic     Metasedimentary          Metaclastic               Phyllite",Phyllite,
+OKSmOp;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKSmOp;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKSmOp;0,Incidental,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKOp;0,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,"Sedimentary     Clastic          Mudstone               Shale                    Black-shale",Black-shale,Bed
+OKOp;0,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,"Metamorphic     Metasedimentary          Metaclastic               Phyllite",Phyllite,
+OKObf;0,Major,Sedimentary,Chemical,Chert,,,"Sedimentary     Chemical          Chert               ",Chert,Bed
+OKObf;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKObf;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKOw;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKOw;0,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,"Metamorphic     Metasedimentary          Metaclastic               Phyllite",Phyllite,
+OKOw;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKOw;0,Minor,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKOvb;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKOvb;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKOvb;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKOsfv;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKOsfv;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKObm;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKObm;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKObm;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKOoj;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKOoj;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKOoj;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKOws;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKOws;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKOws;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKOws;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKOua;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKOua;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKOk;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKOk;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKOk;0,Minor,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKOk;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKOwk;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKOwk;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKOwk;0,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKOwk;0,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKOwk;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKOcm;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKOcm;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKOcm;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKOcm;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKOb;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKOm;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKOm;0,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,"Metamorphic     Metasedimentary          Metaclastic               Phyllite",Phyllite,
+OKOcs;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKOcs;0,Incidental,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKOc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKOc;0,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,"Metamorphic     Metasedimentary          Metaclastic               Phyllite",Phyllite,
+OKOc;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKCAat;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKCAat;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKCAat;0,Major,Sedimentary,Clastic,Siltstone,,,"Sedimentary     Clastic          Siltstone               ",Siltstone,Bed
+OKCAat;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKCAat;0,Major,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKCAat;0,Major,Sedimentary,Clastic,Mudstone,Shale,,"Sedimentary     Clastic          Mudstone               Shale",Shale,Bed
+OKCAb;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKCAb;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKCAth;0,Major,Sedimentary,Clastic,Sandstone,,,"Sedimentary     Clastic          Sandstone               ",Sandstone,Bed
+OKCAth;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKCAth;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKCAp;0,Major,Igneous,Hypabyssal,Felsic-hypabyssal,Hypabyssal-rhyolite,,"Igneous     Hypabyssal          Felsic-hypabyssal               Hypabyssal-rhyolite",Hypabyssal-rhyolite,
+OKCAbf;0,Major,Sedimentary,Carbonate,Limestone,,,"Sedimentary     Carbonate          Limestone               ",Limestone,Bed
+OKCAbf;0,Major,Sedimentary,Carbonate,Dolostone,,,"Sedimentary     Carbonate          Dolostone               ",Dolostone,Bed
+OKCAcr;0,Major,Igneous,Volcanic,Felsic-volcanic,Rhyolite,,"Igneous     Volcanic          Felsic-volcanic               Rhyolite",Rhyolite,Flow
+OKCAcr;0,Minor,Sedimentary,Clastic,Conglomerate,,,"Sedimentary     Clastic          Conglomerate               ",Conglomerate,Bed
+OKCAcr;0,"Indeterminate, major",Igneous,Plutonic,Dioritic,Diorite,,"Igneous     Plutonic          Dioritic               Diorite",Diorite,Dike or sill
+OKCAwg;0,Major,Igneous,Plutonic,Granitic,Granite,,"Igneous     Plutonic          Granitic               Granite",Granite,Pluton
+OKCAr;0,Major,Igneous,Plutonic,Gabbroic,Gabbro,,"Igneous     Plutonic          Gabbroic               Gabbro",Gabbro,Pluton
+OKCAr;0,Major,Igneous,Plutonic,Anorthosite,,,"Igneous     Plutonic          Anorthosite               ",Anorthosite,Pluton
+OKCAr;0,Major,Igneous,Plutonic,Dioritic,Diorite,,"Igneous     Plutonic          Dioritic               Diorite",Diorite,Pluton
+OKpCAt;0,Major,Igneous,Plutonic,Granitic,Granite,,"Igneous     Plutonic          Granitic               Granite",Granite,Batholith
+OKpCAg;0,Major,Igneous,Plutonic,Granitic,Granite,,"Igneous     Plutonic          Granitic               Granite",Granite,Batholith
+OKpCAg;0,"Indeterminate, major",Igneous,Volcanic,Felsic-volcanic,Rhyolite,,"Igneous     Volcanic          Felsic-volcanic               Rhyolite",Rhyolite,Batholith
+OKd;0,Major,Igneous,Plutonic,Dioritic,Diorite,,"Igneous     Plutonic          Dioritic               Diorite",Diorite,Dike or sill
